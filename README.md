@@ -5,6 +5,6 @@ The Calculator runs continuously until the user choose to exit.
 
 
 Languages: Java
-IDE: VS CODE
-RunTime:Terminal
+IDE: VS CODE(for writing, execution, and debugging)
+RunTime:Terminal & Command Prompt
 
